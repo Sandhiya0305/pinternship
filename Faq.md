@@ -331,11 +331,11 @@ After completing all ViBe MERN modules:
 3. Read the entire documentation carefully to understand the concept and tasks to be performed.
 4. Try to understand each case study first, then attempt to code a solution for it.
 5. Open a code editor (for example, **VS Code**) and implement the tasks.
-5. Getting stuck is normal — ask questions on Cliq, revisit the ViBe videos, and discuss with others.
+5. Getting stuck is normal. You can ask questions on Cliq, revisit the ViBe videos, and discuss with others.
 7. Submit your work using the provided submission link.
 
-**9.4 What comes after Case Studies?**  
-After completing case studies, you move to the third component: **Practical Learning (Projects)**. You will contribute to real open-source projects, working with our developers to build real applications and add new features.
+**9.4 What comes after Case Studies?**
+After completing case studies, you move ahead to the Endorsement phase. The Self-healing endorsement network is a peer evaluation strategy that the learner needs to accomplish before getting into the next phase. The learner is expected to take an endorsement from a peer and move ahead to the third component: **Practical Learning (Projects)**. Visit - [The Self-Healing Endorsement Network page](https://sudarshansudarshan.github.io/pinternship/endorsements/) to learn more about endorsements.
 
 **9.5 How do I submit the case studies?**  
 
@@ -344,7 +344,7 @@ After completing case studies, you move to the third component: **Practical Lear
    - First name and last name  
    - Email ID associated with the internship  
    - Technology name and lesson number completed  
-3. Upload the file containing your solution  
+3. Upload the file containing your solution for the specific lesson  
    (supported formats include `.js`, `.ts`, `.txt`, `.zip`, etc.)
 4. Review your details and submit the form.
 5. Repeat this process for **each lesson** you complete.
@@ -363,7 +363,10 @@ This collaborative approach is encouraged to enhance learning and problem-solvin
 
 
 **9.8 Where can I view my submission status and access the leaderboard and dashboard?**  
-You can track your submission status, access the leaderboard, and view the dashboard by visiting the Pinternship Live Dashbord section on website homepage.
+You can track your submission status, access the leaderboard, and view the dashboard by visiting the Pinternship Live Dashboard section on the website homepage.
+
+**9.9. What next if I completed my Case Studies and I am done with my endorsements?**
+We have some project ideas from the existing open source projects from Vicharanashala Lab for Education Design and Annam.AI listed on the Pinternship website. You can contribute to these real-time open-source projects, working with our developers to build real applications and add new features.
 
 
 ## 10. Ejection Policy
@@ -391,13 +394,13 @@ Backward Eject refers to the removal of a participant from the internship due to
 **10.5 How is inactivity measured for Backward Ejection?**  
 Backward Ejection is triggered **only if both conditions are met simultaneously**:
 
-1. Your average daily progress on the ViBe platform falls **below 3.33% per day**, **and**  
+1. Your average daily progress on the ViBe platform falls **below 3.33% per day**, **and** 
 2. Your overall engagement level places you within the **bottom 10% of the active cohort**.
 
 This dual-condition check ensures fairness and prevents short-term slowdowns from being penalized.
 
 **10.6 Is the ejection process manual or automated?**  
-The process is **automated and data-driven**. An algorithm evaluates progress and cohort standing objectively, ensuring transparency and eliminating subjective bias or manual intervention.
+The process will be **automated and data-driven**. An algorithm objectively evaluates progress and cohort standing, ensuring transparency and eliminating subjective bias or manual intervention. Manual intervention at a higher level is currently in place to oversee the ejection and ensure correctness.
 
 **10.7 Can I avoid being ejected from the program?**  
 Yes. Maintaining steady progress above the minimum threshold and remaining actively engaged with the ViBe platform ensures that your position in the program remains secure.
@@ -414,10 +417,10 @@ Backward Ejection removes you from the current cohort only. Forward Ejection, ho
 
 ---
 
-## 11. Viva/PES (Self-Healing Endorsement Network)
+## 11. Self-Healing Endorsement Network - Viva/Peer Evaluation System(PES)
 
 **11.1 What is the Self-Healing Endorsement Network?**  
-The **Self-Healing Endorsement Network** is the official evaluation framework used for **Viva/PES**.
+The **Self-Healing Endorsement Network** is the official evaluation framework for the Case study activity completion for the learners.
 
 It is a **peer-driven endorsement system** where interns endorse each other’s learning and contributions. All endorsements together form a **connected endorsement network**.
 
@@ -475,12 +478,12 @@ This is **not prohibited**, but interns are expected to endorse **responsibly an
 
 
 **11.7 How do audits work in the endorsement network?**  
-Audits are conducted by **Bhavna ma’am** to identify defaulters and irregularities.
+Audits are conducted by **Bhavna** to identify interns who need improvement and work on Case studies before they get into the project phase.
 
-If a **defaulter** is identified:
+If a **Needs Improvement** intern is identified:
 - The **entire endorsement path** connected to that intern is audited
 - A **50% health point penalty** is applied to everyone in that connected group
-- The **defaulter and anyone who fails the audit** are **removed from the network**
+- The **intern and anyone who fails the audit** are **removed from the network**
 
 
 **11.8 What happens if I am certified as “good” during an audit?**  
@@ -513,7 +516,7 @@ Endorsements are tracked using a **three-column dataset**:
 Possible actions:
 - **Add** → Member 1 endorsed Member 2  
 - **Delete** → Member 1 de-endorsed Member 2  
-- **Default** → Member 1 is a defaulter and Member 2 is the parent in the chain  
+- **Needs Improvement** → Member 1 is belongs to Needs Improvement category, Member 2 is the parent in the chain  
 
 This dataset is used to:
 - Track endorsement paths
@@ -542,7 +545,7 @@ The form contains **mandatory sections**:
 - Avoid duplicate or reciprocal entries
 
 <!-- ⏳ **Deadline:**  
-All endorsements and de-endorsements must be completed **by Friday 16th January 2026**. -->
+YET TO BE ANNOUNCED**. -->
 
 
 **11.12 What should interns keep in mind while endorsing others?**  
