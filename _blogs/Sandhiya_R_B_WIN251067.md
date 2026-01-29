@@ -1,6 +1,6 @@
 ---
 title: "Reflections from my NPTEL Winter Internship"
-author: VLED Lab
+author: Sandhiya R
 pinternship_id: WIN251067
 ---
 
